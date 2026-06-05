@@ -1,9 +1,26 @@
-.container{
-    background:yellow;
-    height:250px;
+#image1{
+    width: 700px;
+    height: 400px;
 }
-.container-fluid{
-    color:yellow;
-    background:black;
-    height:250px;
+#who1{
+    margin-left: 235px;
+}
+#im1{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#div1{
+    background-color: deepskyblue;
+    height: 525px;
+}
+#div2 p{
+    font-size: x-large;
+    margin-left: 10px;
+}
+#what1{
+    margin-left: 10px;
+}
+#div2{
+    background-color: lightskyblue;
+    height: 135px;
 }
